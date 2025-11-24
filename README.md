@@ -6,3 +6,7 @@
 - 🎯 Focus: Turning theoretical knowledge into practical skills.
 - 📍 Antalya, Turkiye
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/srdrcll/)
+
+<div align="center">
+  <img src="https://github.com/srdrcll/srdrcll/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
