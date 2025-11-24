@@ -8,5 +8,5 @@
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/srdrcll/)
 
 <div align="center">
-  <img src="https://github.com/srdrcll/srdrcll/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/srdrcll/srdrcll/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="500px" />
 </div>
