@@ -63,7 +63,7 @@
 
 ---
 
-### 🐍 Contribution Activity (Snake Game)
+### 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/srdrcll/srdrcll/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
