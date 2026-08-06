@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=4th-Year+MIS+Student+%40+Akdeniz+University+%F0%9F%8D%93;Business+Analysis+%26+Project+Management+Candidate+%F0%9F%93%88;AI-Assisted+Product+Development+%26+Documentation+%F0%9F%A4%96;Creator+of+Kariyer+Pusulas%C4%B1+%26+C%C3%BCzdan+App+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=4th-Year+MIS+Student+%40+Akdeniz+University;Business+Analysis+%26+Project+Management+Candidate+%F0%9F%93%88;AI-Assisted+Product+Development+%26+Documentation+%F0%9F%A4%96;Creator+of+Kariyer+Pusulas%C4%B1+%26+C%C3%BCzdan+App+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
